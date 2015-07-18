@@ -1,2 +1,2 @@
 # Git
-Creating new branch
+Creating new branch quite & simple
