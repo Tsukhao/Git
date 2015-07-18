@@ -1,2 +1,6 @@
 hello git
+<<<<<<< Updated upstream
 this is test 
+=======
+need fix one bug,but i'm inprocessing a function ,so i don't want to commit
+>>>>>>> Stashed changes
